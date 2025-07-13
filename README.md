@@ -1,4 +1,4 @@
-# 🩺 Telemedicine Platform — SIH 2023 Project
+# 🩺 Telemedicine Platform
 
 A **Smart India Hackathon 2023** project designed to bridge the gap between patients and healthcare professionals through a seamless, secure, and scalable telemedicine solution.
 
