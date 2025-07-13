@@ -21,7 +21,9 @@ This project is structured into three main components:
 ## 🧩 Project Structure
 
 ├── admin/ # Admin dashboard (React/Angular-based)
+
 ├── frontend Telemedicine/ # Patient and doctor interface
+
 ├── backwnd telemedicine/ # Backend server (Node.js/Express)
 
 
